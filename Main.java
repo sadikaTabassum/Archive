@@ -233,7 +233,7 @@ public class Main {
         constraints.gridx = 1;
         formPanel.add(roleComboBox, constraints);
 
-        JButton logoutButton = new JButton("Log Out");
+        JButton logoutButton = new JButton("Back");
         logoutButton.setBackground(new Color(66, 39, 176));
         logoutButton.setForeground(Color.white);
         logoutButton.setOpaque(true);
